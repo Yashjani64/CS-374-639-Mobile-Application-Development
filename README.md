@@ -7,9 +7,11 @@ ConversionYashJaniV2
 Link - https://github.com/Yashjani64/CS-374-639-Mobile-Application-Development/tree/main/ConversionYashJaniV2
 
 
+
 HelloToast
 
 Link - https://github.com/Yashjani64/CS-374-639-Mobile-Application-Development/tree/main/HelloToast
+
 
 
 HelloWorld
@@ -17,9 +19,11 @@ HelloWorld
 Link - https://github.com/Yashjani64/CS-374-639-Mobile-Application-Development/tree/main/HelloWorld
 
 
+
 MyFirstAppJava
 
 Link - https://github.com/Yashjani64/CS-374-639-Mobile-Application-Development/tree/main/MyFirstAppJava
+
 
 
 RecyclerView
@@ -27,14 +31,17 @@ RecyclerView
 Link - https://github.com/Yashjani64/CS-374-639-Mobile-Application-Development/tree/main/RecyclerView
 
 
+
 ScrollingText
 
 Link - https://github.com/Yashjani64/CS-374-639-Mobile-Application-Development/tree/main/ScrollingText
 
 
+
 WhoWroteIt
 
 Link - https://github.com/Yashjani64/CS-374-639-Mobile-Application-Development/tree/main/WhoWroteIt
+
 
 
 WhoWroteItLoader 
