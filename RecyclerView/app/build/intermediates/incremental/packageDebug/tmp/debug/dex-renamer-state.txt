@@ -1,0 +1,4 @@
+#Wed May 10 01:25:38 EDT 2023
+base.0=C\:\\Users\\Yash Jani\\Desktop\\Computer Science MS USA\\Spring 2023\\MAD\\MOD 2\\RecyclerView\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
